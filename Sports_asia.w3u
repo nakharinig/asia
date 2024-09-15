@@ -2,7 +2,7 @@
 "name" : 	"Sport",
 "author"	: "Sport PL4U",
 "image":	"https://i.postimg.cc/CKSb1R6H/Sport.jpg",
-"url" : "http://tiny.cc/nxdkzz",
+"url" : "https://github.com/nakharinig/asia.git",
 "stations"	:[
 
 {"name": "3BB Sports 1", "image": "https://dookeela.live/uploads/1720429672.png", "url": "https://dookeela.live/live-tv/3bbsports1", "referer": "https://dookeela.live/", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"    },
