@@ -5,7 +5,7 @@
     "url": "https://pastebin.com/raw/pZspX2Jz",
     "stations": [
         {
-            "name": "PREMIER FOOTBALL 1",
+            "name": "PREMIER 1",
             "image": "https://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png",
             "url": "https://dookeela.live/live-tv/epl1_sd",
             "referer": "https://dookeela.live/",
@@ -13,7 +13,7 @@
             "playInNatPlayer": "true"
         },
         {
-            "name": "PREMIER FOOTBALL 1 สำรอง",
+            "name": "PREMIER 1 สำรอง",
             "image": "https://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png",
             "url": "https://oral.thaim3u.com/doolive4k-tv/siamsport-1/chunks.m3u8",
             "referer": "https://doolive4k.tv/",
@@ -21,7 +21,7 @@
             "playInNatPlayer": "true"
         },
         {
-            "name": "PREMIER FOOTBALL 2",
+            "name": "PREMIER 2",
             "image": "https://static.wikia.nocookie.net/logos/images/7/7f/True_Premier_Football_HD2.png/revision/latest/scale-to-width-down/1609?cb=20240416003058&path-prefix=vi",
             "url": "https://dookeela.live/live-tv/epl2",
             "referer": "https://dookeela.live/",
@@ -29,7 +29,7 @@
             "playInNatPlayer": "true"
         },
         {
-            "name": "PREMIER FOOTBALL 2 สำรอง",
+            "name": "PREMIER 2 สำรอง",
             "image": "https://static.wikia.nocookie.net/logos/images/7/7f/True_Premier_Football_HD2.png/revision/latest/scale-to-width-down/1609?cb=20240416003058&path-prefix=vi",
             "url": "https://oral.thaim3u.com/doolive4k-tv/siamsport-2/chunks.m3u8",
             "referer": "https://doolive4k.tv/",
@@ -37,7 +37,7 @@
             "playInNatPlayer": "true"
         },
         {
-            "name": "PREMIER FOOTBALL 3",
+            "name": "PREMIER 3",
             "image": "https://static.wikia.nocookie.net/logos/images/0/08/True_Premier_Football_HD3.png/revision/latest/scale-to-width-down/1609?cb=20240416003104&path-prefix=vi",
             "url": "https://dookeela.live/live-tv/epl3",
             "referer": "https://dookeela.live/",
@@ -45,7 +45,7 @@
             "playInNatPlayer": "true"
         },
         {
-            "name": "PREMIER FOOTBALL 3 สำรอง",
+            "name": "PREMIER 3 สำรอง",
             "image": "https://static.wikia.nocookie.net/logos/images/0/08/True_Premier_Football_HD3.png/revision/latest/scale-to-width-down/1609?cb=20240416003104&path-prefix=vi",
             "url": "https://www.heng99bet.com/live/epl3",
             "referer": "https://www.heng99bet.com/",
@@ -53,7 +53,7 @@
             "playInNatPlayer": "true"
         },
         {
-            "name": "PREMIER FOOTBALL 4",
+            "name": "PREMIER 4",
             "image": "https://static.wikia.nocookie.net/logos/images/d/d0/True_Premier_Football_HD4.png/revision/latest/scale-to-width-down/1609?cb=20240416003112&path-prefix=vi",
             "url": "https://dookeela.live/live-tv/epl4",
             "referer": "https://dookeela.live/",
@@ -61,7 +61,7 @@
             "playInNatPlayer": "true"
         },
         {
-            "name": "PREMIER FOOTBALL 5",
+            "name": "PREMIER 5",
             "image": "https://static.wikia.nocookie.net/logos/images/1/14/True_Premier_Football_HD5.png/revision/latest/scale-to-width-down/1609?cb=20240416003116&path-prefix=vi",
             "url": "https://oral.thaim3u.com/doolive4k-tv/siamsport-5/chunks.m3u8",
             "referer": "https://doolive4k.tv/",
