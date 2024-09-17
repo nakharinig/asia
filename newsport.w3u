@@ -120,7 +120,7 @@
         {
             "name": "BEIN SPORT 2 TH",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",
-            "url": "https://www.heng99bet.com/live/bein3",
+            "url": "https://www.heng99bet.com/live/bein2",
             "referer": "https://dookeela.live/",
             "info": "Dookeela",
             "playInNatPlayer": "true"
@@ -140,6 +140,13 @@
             "referer": "https://doolive4k.tv/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "info": "Doolive4k",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "BEIN SPORT 3 TH",
+            "image": "https://dooball2you.com/wp-content/uploads/2022/04/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87beinsport3-2-300x73.png",
+            "url": "https://www.heng99bet.com/live/bein1",
+            "info": "Heng99bet",
             "playInNatPlayer": "true"
         },
         {
