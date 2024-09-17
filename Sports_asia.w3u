@@ -1,257 +1,211 @@
 {
-"name" : 	"Sport",
-"author"	: "Sport PL4U",
-"image":	"https://i.postimg.cc/CKSb1R6H/Sport.jpg",
-"url" : "https://github.com/nakharinig/asia.git",
-"stations"	:[
-
-{"name": "3BB Sports 1", "image": "https://dookeela.live/uploads/1720429672.png", "url": "https://dookeela.live/live-tv/3bbsports1", "referer": "https://dookeela.live/", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"    },
-
-{"name":"True Premier 1 Dookeela","image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png","url":"https://dookeela.live/live-tv/epl1_sd","playInNatPlayer":"true"},
-{"name":"True Premier 1 Madoohd","image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png","url":"https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8","referer": "https://www.madoohd.com/","playInNatPlayer":"true"},
-{"name":"True Premier 1 Doolive4k","image":"https://img2.pic.in.th/pic/pp1550561a5c7a8eca5.png","url":"https://oral.thaim3u.com/doolive4k-tv/siamsport-1/chunks.m3u8","referer": "https://doolive4k.tv/","playInNatPlayer": "true"},
-
-
-{"name":"True Premier 2 Dookeela","image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png","url":"https://dookeela.live/live-tv/epl2","playInNatPlayer":"true"},
-{"name":"True Premier 2 Madoohd","image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png","url":"https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8","referer": "https://www.madoohd.com/","playInNatPlayer":"true"},
-{"name":"True Premier 2 Doolive4k","image":"https://img2.pic.in.th/pic/pp2175703f8cdfed6a5.png","url":"https://oral.thaim3u.com/doolive4k-tv/siamsport-2/chunks.m3u8","referer": "https://doolive4k.tv/","playInNatPlayer": "true"},
-
-
-{"name":"True Premier 3 Dookeela","image":"https://img5.pic.in.th/file/secure-sv1/pp3.png","url":"https://dookeela.live/live-tv/epl3","playInNatPlayer":"true"},
-{"name":"True Premier 3 Dooball2you","image":"https://img5.pic.in.th/file/secure-sv1/pp3.png","url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/th-sport/tpf3/chunks.m3u8","referer": "https://dooball2you.com/","playInNatPlayer":"true"},
-
-
-{"name":"True Premier 4 Dooball2you","image":"https://img2.pic.in.th/pic/pp4.png","url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/th-sport/tpf4/chunks.m3u8","referer": "https://dooball2you.com/","playInNatPlayer":"true"},
-{"name":"True Premier 4 Livescore","image": "https://img2.pic.in.th/pic/pp4.png","url": "https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8","referer": "https://freetvdd.com/","userAgent": "ExoPlayerLib/2.8.4"} ,
-
-{"name":"True Premier 5 Livescore","image": "https://i.postimg.cc/j53CQ2qf/p5.jpg","url": "https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8","referer": "https://freetvdd.com/","userAgent": "ExoPlayerLib/2.8.4"},
-{"name":"True Premier 5 Dooball2you","image": "https://i.postimg.cc/j53CQ2qf/p5.jpg","url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/th-sport/tpf5/chunks.m3u8","referer": "https://dooball2you.com/","playInNatPlayer":"true"},
-
-
-
-{ "name": "Sport TV 1", "image": "https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-1.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv1/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "ช่อง : Sport TV 2", "image": "https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-2.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv2/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "Sport TV 3", "image": "https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-3.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv3/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "Sport TV 4", "image": "https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-4.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv4/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "Sport TV 5", "image": "https://dooball2you.com/wp-content/uploads/2023/09/sport-tv-5.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv5/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "ArenaSport1", "image": "https://dooball2you.com/wp-content/uploads/2023/09/arenasport1.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport1/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "ArenaSport2", "image": "https://dooball2you.com/wp-content/uploads/2023/09/arenasport2.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport2/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "ArenaSport3", "image": "https://dooball2you.com/wp-content/uploads/2023/09/arenasport3.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport3/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "ArenaSport4", "image": "https://dooball2you.com/wp-content/uploads/2023/09/arenasport4.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport4/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "SPOTV", "image": "https://dooball2you.com/wp-content/uploads/2023/09/sportv.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "Spotv2", "image": "https://dooball2you.com/wp-content/uploads/2023/09/sportv2.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-
-{ "name": "BT Sport1", "image": "https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-1.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/btsport1/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{"name":"beIN Sports 1 TH","image":"https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-1.jpg","url":"https://www.heng99bet.com/live/bein1","playInNatPlayer":"true"},
-{ "name": "BT Sport2", "image": "https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-2.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/btsport2/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{"name":"beIN Sports 2 TH","image":"https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-2.jpg","url":"https://www.heng99bet.com/live/bein2","playInNatPlayer":"true"},
-{ "name": "BT Sport3", "image": "https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-3.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/btsport3/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{"name":"beIN Sports 3 TH","image":"https://dooball2you.com/wp-content/uploads/2023/09/bt-sport-3.jpg","url":"https://www.heng99bet.com/live/bein3","playInNatPlayer":"true"},
-
-{ "name": "Motorvision", "image": "https://dooball2you.com/wp-content/uploads/2023/09/motorvision.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/motorvision/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "NBA TV", "image": "https://dooball2you.com/wp-content/uploads/2023/09/nbatv.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/nbatv/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "ช่อง : SPORTV", "image": "https://dooball2you.com/wp-content/uploads/2023/09/sportv-.jpg", "url": "https://nj2yx-gbi9-cdf5.googlecdncontent.com/dooball2you/sportv/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "DigiSport1", "image": "https://dooball2y{
-"name"              :     "Sport Channel",
-"image"             :     "https://as2.ftcdn.net/v2/jpg/03/02/12/83/1000_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",
-"url"               :     "https://freenote.biz/BFDf42rClF",
-"stations" : [
-
-              {  
-name:"Premier Football HD 1",
-image:"https://www.img10.xyz/assets/img/ch_logo/doomovie-epl1.png",
-"url":"https://oral.thaim3u.com/doolive4k-tv/siamsport-1/chunks.m3u8",
+    "name": "   ⚽ Football ⚽",
+    "author": "ASIA สำหรับดูบอล",
+    "image": "https://img5.pic.in.th/file/secure-sv1/football-1.png",
+    "url": "https://pastebin.com/raw/n36hW94X",
+    "stations": [
+        {
+            "name": "PREMIER FOOTBALL 1",
+            "image": "https://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png",
+            "url": "https://dookeela.live/live-tv/epl1_sd",
+			"referer": "https://dookeela.live/",
+			"info":  "Dookeela",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "PREMIER FOOTBALL 1 สำรอง",
+            "image": "https://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png",
+            "url": "https://oral.thaim3u.com/doolive4k-tv/siamsport-1/chunks.m3u8",
+			      "referer": "https://doolive4k.tv/",
+			"info":  "Doolive4k",
 "playInNatPlayer": "true"
-},
- 
-{  
-name:"Premier Football HD 2",
-image:"https://www.img06.xyz/assets/img/ch_logo/doomovie-epl2.png",
-"url":"https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8",
+		    },
+
+        {
+            "name": "PREMIER FOOTBALL 2 ",
+            "image": "https://static.wikia.nocookie.net/logos/images/7/7f/True_Premier_Football_HD2.png/revision/latest/scale-to-width-down/1609?cb=20240416003058&path-prefix=vi",
+            "url": "https://dookeela.live/live-tv/epl2",
+			"referer": "https://dookeela.live/",
+			"info":  "Dookeela",
+            "playInNatPlayer": "true"
+        },
+
+        {
+            "name": "PREMIER FOOTBALL 2 สำรอง",
+            "image": "https://static.wikia.nocookie.net/logos/images/7/7f/True_Premier_Football_HD2.png/revision/latest/scale-to-width-down/1609?cb=20240416003058&path-prefix=vi",
+           	"url": "https://oral.thaim3u.com/doolive4k-tv/siamsport-2/chunks.m3u8",
+			"referer": "https://doolive4k.tv/",
+			"info":  "Doolive4k",
+			"playInNatPlayer": "true"
+		    },
+
+        {
+            "name": "PREMIER FOOTBALL 3",
+            "image": "https://static.wikia.nocookie.net/logos/images/0/08/True_Premier_Football_HD3.png/revision/latest/scale-to-width-down/1609?cb=20240416003104&path-prefix=vi",
+            "url": "https://dookeela.live/live-tv/epl3",
+			"referer": "https://dookeela.live/",
+			"info":  "Dookeela",
+            "playInNatPlayer": "true"
+        },
+
+        {
+            "name": "PREMIER FOOTBALL 3 สำรอง",
+            "image": "https://static.wikia.nocookie.net/logos/images/0/08/True_Premier_Football_HD3.png/revision/latest/scale-to-width-down/1609?cb=20240416003104&path-prefix=vi",
+            "url": "https://www.heng99bet.com/live/epl3",
+			"referer": "https://www.heng99bet.com/",
+			"info":  "heng99bet",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "PREMIER FOOTBALL 4",
+            "image": "https://static.wikia.nocookie.net/logos/images/d/d0/True_Premier_Football_HD4.png/revision/latest/scale-to-width-down/1609?cb=20240416003112&path-prefix=vi",
+            "url": "https://dookeela.live/live-tv/epl4",
+			"referer": "https://doolive4k.tv/",
+			"info":  "Dookeela",
 "playInNatPlayer": "true"
-},
- 
-{  
-name:"Premier Football HD 3",
-image:"https://www.img05.xyz/assets/img/ch_logo/doomovie-epl3.png",
-"url":"https://dookeela.live/live-tv/epl3",
+
+        },
+        {
+            "name": "PREMIER FOOTBALL 5",
+            "image": "https://static.wikia.nocookie.net/logos/images/1/14/True_Premier_Football_HD5.png/revision/latest/scale-to-width-down/1609?cb=20240416003116&path-prefix=vi",
+            "url": "https://oral.thaim3u.com/doolive4k-tv/siamsport-5/chunks.m3u8",
+			"referer": "https://doolive4k.tv/",
+			"info":  "Doolive4k",
 "playInNatPlayer": "true"
-},
- 
 
-{  
-name:"Premier Football HD 4",
-image:"https://www.img02.xyz/assets/img/ch_logo/doomovie-epl4.png",
-"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/th-sport/tpf4/chunks.m3u8",
-"playInNatPlayer": "true"
-},
- 
-{  
-name:"Premier Football HD 5",
-image:"https://www.img06.xyz/assets/img/ch_logo/doomovie-epl5.png",
-"url":"https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8",
-"playInNatPlayer": "true"
-},
- 
+	  	  },
 
-{  
-name:"TrueSport 1",
-image:"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/truesport1.jpg",
-"url":"https://www.ufa77.fun/channel?ch=truesporthd",
-"referer": "",
-"playInNatPlayer": "true"
-},
- 
+        {
+            "name": "TRUE BALL THAI 1",
+            "image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp",
+            "url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8",
+            "referer": "https://24xball.co/",
+            "playInNatPlayer": "true"
+			"info":  "24xball"
+        },
 
-{  
-name:"TrueSport 2",
-image:"https://dookeela.live/uploads/1664499966.png",
-"url":"https://www.ufa77.fun/channel?ch=truesporthd2",
-"playInNatPlayer": "true"
-},
- 
-{  
-name:"TrueSport 3",
-image:"https://dookeela.live/uploads/1664802480.png",
-"url":"https://www.ufa77.fun/channel?ch=truesporthd3",
-"playInNatPlayer": "true"
-},
- 
-{  
-name:"TrueSport 5",
-image:"https://dookeela.live/uploads/1664847910.png",
-"url":"https://www.ufa77.fun/channel?ch=truesport5",
-"referer": "",
-"playInNatPlayer": "true"
-},
- 
-{  
-name:"TrueSport 7",
-image:"https://dookeela.live/uploads/1664847921.png",
-"url":"https://www.ufa77.fun/channel?ch=truesport7",
-"referer": "",
-"playInNatPlayer": "true"
-},
- 
+        {
+            "name": "TRUE BALL THAI 2",
+            "image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",
+            "url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai2/chunks.m3u8",
+            "referer": "https://24xball.co/",
+            "playInNatPlayer": "true"
+			"info":  "24xball"
+        },
+        {
+            "name": "TRUE BALL THAI 3",
+            "image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",
+            "url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai3/chunks.m3u8",
+            "referer": "https://24xball.co/",
+            "playInNatPlayer": "true"
+			"info":  "24xball"
+        },
+        {
+            "name": "TRUE BALL THAI 4",
+            "image": "https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp",
+            "url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai4/chunks.m3u8",
+            "referer": "https://24xball.co/",
+            "playInNatPlayer": "true"
+			"info":  "24xball"
+        },
+        {
+            "name": "BEIN SPORT 1 TH",
+            "image": "https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png",
+   			"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8",
+         	 "referer": "https://doolive4k.tv/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+		  "info":  "Doolive4k"
+        },	
+  {
+            "name": "BEIN SPORT 1 TH",
+            "image": "https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png",
+            "url": "https://www.heng99bet.com/live/bein1",
+            "referer": "",
+			"info":  "Heng99bet",
+            "playInNatPlayer": "true"
 
-{
-"name" : "MUTV (UK)",
-"image" : "https://ballsodlive.com/api/table/icon/ch060.png",
-"url" : "https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8",
-"playInNatPlayer" : "true"
-},
+        },
 
-{
-"name" : "LFC TV",
-"image" : "https://ballsodlive.com/api/table/icon/ch061.png",
-"url" : "https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8",
-"referer" : "https://freetvdd.com/",
-"playInNatPlayer" : "true"
- },
+        {
+            "name": "BEIN SPORT 2 TH",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",
+            "url": "https://www.heng99bet.com/live/bein3",
+            "referer": "https://dookeela.live/",
+			"info":  "Dookeela",
+            "playInNatPlayer": "true"
+        },
+     
+        {
+            "name": "BEIN SPORT 2 TH",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",
+            "url": "https://www.heng99bet.com/live/bein2",
+            "referer": "",
+			"info":  Heng99bet",
+            "playInNatPlayer": "true"
 
+        },   
+        {
+            "name": "BEIN SPORT 3 TH",
+            "image": "https://dooball2you.com/wp-content/uploads/2022/04/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87beinsport3-2-300x73.png",
+			"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/playlist.m3u8",
+          	"referer": "https://doolive4k.tv/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+"playInNatPlayer": "true",
+		  "info":  "Doolive4k"
+        },	
+        {
+            "name": "BEIN SPORT 3 TH",
+            "image": "https://dooball2you.com/wp-content/uploads/2022/04/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87beinsport3-2-300x73.png",
+            "url": "https://www.heng99bet.com/live/bein3",
+            "referer": "",
+		  "info":  "Heng99bet",
+            "playInNatPlayer": "true"
 
+        },
 
-{
-"name": "TRUE BALL THAI 1",
-"image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp",
-"url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai1/chunks.m3u8",
-"referer": "https://24xball.co/",
-"playInNatPlayer": "true"
-},
- 
-{
-"name": "TRUE BALL THAI 2",
-"image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp",
-"url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai2/chunks.m3u8",
-"referer": "https://24xball.co/",
-"playInNatPlayer": "true"
-},
- 
-{
-"name": "TRUE BALL THAI 3",
-"image": "https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp",
-"url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai3/chunks.m3u8",
-"referer": "https://24xball.co/",
-"playInNatPlayer": "true"
-},
+        {
+            "name": "BEIN SPORT 4 TH",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png",
+            "url": "https://dookeela.live/live-tv/bein4",
+            "referer": "https://dookeela.live/",
+		  "info":  "Hookeela",
+            "playInNatPlayer": "true"
 
-{
-"name": "TRUE BALL THAI 4",
-"image": "",
-"url": "https://competition.tl.prod.c0d1um.io/media/channel/logos/20240814-094254-f4aa2668-df43-439a-b84c-710d932fe036.png",
-"referer": "https://24xball.co/",
-"playInNatPlayer": "true"
-},
+        },
 
- 
-{  
-name:"BEIN SPORT 1 TH",
-image:"https://dooball2you.com/wp-content/uploads/2020/09/beinsports1.png",
-"url":"https://www.ufa77.fun/channel?ch=bein1",
-"referer": "",
-"playInNatPlayer": "true"
-},
- 
- 
-{  
-name:"BEIN SPORT 2 TH",
-image:"https://dookeela.live/uploads/1690843424.png",
-"url":"https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_425_305",
-"referer": "",
-"playInNatPlayer": "true"
-},
- 
-{  
-name:"BEIN SPORT 3 TH",
-image:"https://dooball2you.com/wp-content/uploads/2022/04/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87beinsport3-2-300x73.png",
-"url":"https://www.ufa77.fun/channel?ch=bein3",
-"referer": "",
-"playInNatPlayer": "true"
-},
- 
+        {
+            "name": "BEIN SPORT 5 TH",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_BeinSports_5_MAX.svg/640px-Logo_BeinSports_5_MAX.svg.png",
+            "url": "https://dookeela.live/live-tv/bein5",
+            "referer": "https://dookeela.live/",
+		  "info":  "Dookeela",
+            "playInNatPlayer": "true",
 
- 
+        },
 
+ 		{
+            "name": "BEIN SPORT 6 TH",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Logo_BeinSports_6_MAX.svg/512px-Logo_BeinSports_6_MAX.svg.png?20220526175511",
+            "url": "https://dookeela.live/live-tv/bein6",
+            "referer": "https://dookeela.live/",
+		  "info":  "Dookeela",
+            "playInNatPlayer": "true"
 
+        },
 
-
-
- 
-
-
- 
- 
-]
-}ou.com/wp-content/uploads/2023/09/digisport1.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport1/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "DigiSport2", "image": "https://dooball2you.com/wp-content/uploads/2023/09/digisport2.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport2/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "DigiSport3", "image": "https://dooball2you.com/wp-content/uploads/2023/09/digisport3.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport3/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "DigiSport4", "image": "https://dooball2you.com/wp-content/uploads/2023/09/digisport4.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport4/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "Golf channel thailand", "image": "https://dooball2you.com/wp-content/uploads/2023/09/golf-channel-thailand.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "Golf channel thailand 2", "image": "https://dooball2you.com/wp-content/uploads/2023/09/golf-channel-thailand-plus.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "Astro Supersport 1", "image": "https://dooball2you.com/wp-content/uploads/2023/09/astrosupersport-1.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro1/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "Astro Supersport 2", "image": "https://dooball2you.com/wp-content/uploads/2023/09/astrosupersport-2.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro2/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-{ "name": "Astro Supersport 3", "image": "https://dooball2you.com/wp-content/uploads/2023/09/astrosupersport-3.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro3/playlist.m3u8", "referer": "https://dooball2you.com/"    },    
-{ "name": "Astro Supersport 4", "image": "https://dooball2you.com/wp-content/uploads/2023/09/astrosupersport-4.jpg", "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro4/playlist.m3u8", "referer": "https://dooball2you.com/"    },
-
-
-{"name":"Fox Sports 1 (US)","image":"","url":"https://www.heng99bet.com/live/foxsports1usa","playInNatPlayer":"true"},
-{"name":"Sport TV 2 (PT)","image":"https://dooball2you.com/wp-content/uploads/2023/09/sportv2.jpg","url":"https://www.heng99bet.com/live/sporttv2","playInNatPlayer":"true"},
-
-{image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS1.png","url":"https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=a868b673a46dab95edc5c855f5da155b&chunkHttps=true&tmid=TL001&tpbk=6EHcwryS4iQJetIn&rrt=1678619705&tmod=rfk&rsid=366d8af0-6253-450f-8848-9e2e869c6241&tuid=2ea191d205&cdn=redfox-https&tdid=502d191ae289a57dba9099d8d6776a49&origin=anevia&tfa=f0-fc&tttl=1678702644","referer": "https://ais-vidnt.com/"},
-{image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS2.png","url":"https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=a868b673a46dab95edc5c855f5da155b&chunkHttps=true&tmid=TL002&tpbk=6EHcwryS4iQJetIn&rrt=1678620521&tmod=rfk&rsid=5c2519e6-fb3c-4c18-b0b6-e339fba1653e&tuid=2ea191d205&cdn=redfox-https&tdid=502d191ae289a57dba9099d8d6776a49&origin=anevia&tfa=f0-fc&tttl=1678702644","referer": "https://ais-vidnt.com/"},
-{image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS3.png","url":"https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=098162007063a8ea92b44f03d26847a2&chunkHttps=true&tmid=TL001&tpbk=8aCWkj5NdcrBx2Ir&rrt=1678543158&tmod=rfk&rsid=a94e1f82-228a-4530-86ee-b6f8ba04000b&tuid=ih0hPmBb5x6HGrhWMuEKndxm3X%2Fn%2B4WK6VwsQ%2FOm3j78p%2BuIgmEuZ3vE6IBile7%2Ff3QTLYxWNqIVgz3ZzybbJRYylvZRT6sGYP6z845rvgGbc%3D&cdn=redfox-https&tdid=502d191ae289a57dba9099d8d6776a49&origin=anevia&tfa=f0-fc&tttl=1678627213", "referer": "https://ais-vidnt.com/"},
-{image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS4.png","url":"https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL014/HLS/TL014.m3u8?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=a868b673a46dab95edc5c855f5da155b&chunkHttps=true&tmid=TL014&tpbk=6EHcwryS4iQJetIn&rrt=1678620807&tmod=rfk&rsid=4f52c5cf-1293-4017-a7e2-df9eed2efe64&tuid=2ea191d205&cdn=redfox-https&tdid=502d191ae289a57dba9099d8d6776a49&origin=anevia&tfa=f0-fc&tttl=1678702644","referer": "https://ais-vidnt.com/"},
-{"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png","url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay1/playlist.m3u8","referer":"https://dooball2you.com"},
-{"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png","url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay2/playlist.m3u8","referer":"https://dooball2you.com"},
-{"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png","url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay3/playlist.m3u8","referer":"https://dooball2you.com"},
-{"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png","url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/aisplay4/playlist.m3u8","referer":"https://dooball2you.com"},
-
-{"name":"Thai League 1","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU","url":"https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8","referer":"https://ais-vidnt.com","userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","info":"AIS","desktop":"true","playInNatPlayer":"true"},
-{"name":"Thai League 2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU","url":"https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8","referer":"https://ais-vidnt.com","userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","info":"AIS","desktop":"true","playInNatPlayer":"true"},
-{"name":"Thai League 3","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU","url":"https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8","referer":"https://ais-vidnt.com","userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","info":"AIS","desktop":"true","playInNatPlayer":"true"},
-{"name":"Thai League 4","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU","url":"https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8","referer":"https://ais-vidnt.com","userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","info":"AIS","desktop":"true","playInNatPlayer":"true"},
-{"name":"Thai League 5","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxzn_hirj0v5RIV9l5X2jeGYrX5Rr3vhduw&usqp=CAU","url":"https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8","referer":"https://ais-vidnt.com","userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000","info":"AIS","desktop":"true","playInNatPlayer":"true"},
-
-{"name": "Stadium 1","image":   "https://thaileague.poakpong.com/sites/default/files/cover_photo/T1_Logo_W2.png" ,"url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8","referer": "https://olympic-embed.ais-vidnt.com/","playInNatPlayer": "true"},
-
-]}
+        {
+            "name": "MUTV",
+            "image": "https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",
+            "url": "https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "LFC TV",
+            "image": "https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png",
+            "url": "https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8",
+            "referer": "https://freetvdd.com/",
+            "playInNatPlayer": "true"
+        }
+    ]
+}
