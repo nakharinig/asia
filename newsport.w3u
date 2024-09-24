@@ -7,9 +7,9 @@
         {
             "name": "PREMIER 1",
             "image": "https://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png",
-            "url": "https://dookeela.live/live-tv/epl1_sd",
-            "referer": "https://dookeela.live/",
-            "info": "Dookeela",
+            "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/th-sport/tpf1/chunks.m3u8",
+            "referer": "https://dooball2you.com/",
+            "info": "Dooball2you",
             "playInNatPlayer": "true"
         },
         {
