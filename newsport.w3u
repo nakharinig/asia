@@ -1,6 +1,6 @@
 {
     "name": "   ⚽ Football TV ⚽",
-    "author": "อัพเดท 6/10/2024",
+    "author": "อัพเดท 4/11/2024",
     "image": "https://img5.pic.in.th/file/secure-sv1/football-1.png",
     "url": "https://pastebin.com/raw/pZspX2Jz",
     "stations": [
@@ -177,7 +177,7 @@
             "url": "https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8",
             "referer": "https://freetvdd.com/",
             "playInNatPlayer": "true"
-        }
+        },
         {
             "name": "halloween2018",
             "image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Halloween_%282018%29_poster.jpg",
@@ -190,5 +190,6 @@
             "url": "https://www.nung2hdd.com/halloween-ends-2022-%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%89%e0%b8%b2%e0%b8%81%e0%b8%ae%e0%b8%b2%e0%b9%82%e0%b8%a5%e0%b8%a7%e0%b8%b5%e0%b8%99/",
             "referer": "https://www.nung2hdd.com/",
             "playInNatPlayer": "true"
+        },
     ]
 }
