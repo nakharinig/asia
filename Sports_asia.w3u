@@ -171,5 +171,21 @@
             "referer": "https://freetvdd.com/",
             "playInNatPlayer": "true"
         }
+       {
+            "name": "halloween2018",
+            "image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Halloween_%282018%29_poster.jpg",
+            "url": "https://www.nung2hdd.com/halloween-2018-%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99/",
+            "referer": "https://www.nung2hdd.com/",
+            "playInNatPlayer": "true"
+        },
+        {
+            "name": "halloween2022",
+            "image": "https://play-lh.googleusercontent.com/R6u-xQGZjAD-cAgGFIobEbRM-8Zi9TuER5WH6qaOcWFjIxvAOXr566Qpx2HOiIc_oXIxeP75D6m3V7ivMT8=w240-h480-rw",
+            "url": "https://www.nung2hdd.com/halloween-ends-2022-%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%89%e0%b8%b2%e0%b8%81%e0%b8%ae%e0%b8%b2%e0%b9%82%e0%b8%a5%e0%b8%a7%e0%b8%b5%e0%b8%99/",
+            "referer": "https://www.nung2hdd.com/",
+            "playInNatPlayer": "true"
+        },
+    ]
+}
     ]
 }
