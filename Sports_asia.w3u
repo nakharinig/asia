@@ -1,6 +1,6 @@
 {
     "name": "  ⚽ Football ⚽",
-    "author": "อัพเดท 9/18/2024",
+    "author": "อัพเดท",
     "image": "https://img5.pic.in.th/file/secure-sv1/football-1.png",
     "url": "https://pastebin.com/raw/pZspX2Jz",
     "stations": [
@@ -170,11 +170,11 @@
             "url": "https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8",
             "referer": "https://freetvdd.com/",
             "playInNatPlayer": "true"
-        }
-       {
+        },
+        {
             "name": "halloween2018",
             "image": "https://upload.wikimedia.org/wikipedia/en/b/b1/Halloween_%282018%29_poster.jpg",
-            "url": "https://www.nung2hdd.com/halloween-2018-%E0%B8%AE%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%99/",
+            "url": "https://www.nung2hdd.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.nung2hdd.com%2Fhalloween-2018-%25e0%25b8%25ae%25e0%25b8%25b2%25e0%25b9%2582%25e0%25b8%25a5%25e0%25b8%25a7%25e0%25b8%25b5%25e0%25b8%2599%2F",
             "referer": "https://www.nung2hdd.com/",
             "playInNatPlayer": "true"
         },
@@ -185,7 +185,5 @@
             "referer": "https://www.nung2hdd.com/",
             "playInNatPlayer": "true"
         },
-    ]
-}
     ]
 }
